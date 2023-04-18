@@ -1,0 +1,9 @@
+git clone https://github.com/Efoneli/monorepo-js.git
+git add .
+git commit -m ''
+git push
+git branch frontend-layout
+git checkout frontend-layout
+git checkout master
+git pull
+git merge
